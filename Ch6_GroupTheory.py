@@ -53,4 +53,4 @@ all_groups_intersection = set.intersection(*groups)
 print(f"Union of all three groups: {all_groups_union}")
 print(f"Intersection of all three groups: {all_groups_intersection}")
 
-print("\nThank you for testing my code!")
+print("\nThank you for testing my code!\n")
