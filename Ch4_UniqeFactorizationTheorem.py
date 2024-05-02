@@ -34,3 +34,4 @@ def unique_factorization_theorem():
             break
 
 unique_factorization_theorem()
+print("Thank you for using the Unique Factorization Theorem program!")
